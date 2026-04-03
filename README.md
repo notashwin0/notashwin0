@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - GDScript
 - Python
 - Rust
+
+no ai 
